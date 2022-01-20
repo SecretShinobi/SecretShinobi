@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SecretShinobi
 - 👀 I’m interested in games... and shinobi
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... C, RISC-V Assembly
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
 
