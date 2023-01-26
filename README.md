@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SecretShinobi
 - 👀 I’m interested in games, shinobi and a bunch of other stuffs
 - 🌱 I’m currently learning C and Bash
-- 💞️ I’m looking to collaborate on streams
+- 💞️ I’m looking to collaborate on streams and learn a bunch of stuff
 - 📫 How to reach me: Check out my socials via [Linktree](https://linktr.ee/secretshinobi)
 
 <!---
